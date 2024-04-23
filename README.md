@@ -1,3 +1,3 @@
 # Aplicação de tarefas
 
-<p>Ainda não completo, falta algumas finalizações</p>
+<p>Não completo, falta alguns ajustes</p>
